@@ -119,7 +119,7 @@ See Also:
 repos which contain hundreds of Cloud, Big Data, NoSQL, Web, Linux and other DevOps infrastructure tools.
 Isaac Gazimbe
 
-Cloud & Big Data Contractor, United Kingdom
+Cloud & Big Data Contractor, Johanessburg South Africa
 
 [https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D](https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D)
 ###### (you're welcome to connect with me on LinkedIn)
