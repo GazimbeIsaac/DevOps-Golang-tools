@@ -1,4 +1,4 @@
-Hari Sekhon - DevOps Golang Tools
+Isaac Gazimbe - DevOps Golang Tools
 =================================
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/7b64fbfcff2240b9b18c6754c22d39bb)](https://www.codacy.com/gh/HariSekhon/DevOps-Golang-tools/dashboard)
