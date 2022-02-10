@@ -117,12 +117,11 @@ See Also:
   - [Advanced Nagios Plugins Collection](https://github.com/harisekhon/nagios-plugins)
 
 repos which contain hundreds of Cloud, Big Data, NoSQL, Web, Linux and other DevOps infrastructure tools.
-
-Hari Sekhon
+Isaac Gazimbe
 
 Cloud & Big Data Contractor, United Kingdom
 
-[https://www.linkedin.com/in/harisekhon](https://www.linkedin.com/in/harisekhon)
+[https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D](https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D)
 ###### (you're welcome to connect with me on LinkedIn)
 
 ##### Make sure you run ```make update``` if updating and not just ```git pull``` as you will often need the latest library submodule and possibly new upstream libraries #####
